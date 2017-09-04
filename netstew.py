@@ -1,5 +1,5 @@
 #!/opt/anaconda/bin/python2.7
-# Print the links to stndard out.
+# Print the links to standard out.
 
 from bs4 import BeautifulSoup
 
